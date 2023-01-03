@@ -1,4 +1,4 @@
 # new line from spencer
-print("hi")
+print("hi there")
 # also
 # bug
